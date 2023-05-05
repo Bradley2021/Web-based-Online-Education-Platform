@@ -5,7 +5,7 @@
     <modules>
         <module>common</module>
         <module>service</module>
-        <module>guli_gateway</module>
+        <module>a</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -14,7 +14,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.kuang</groupId>
-    <artifactId>guli_parent</artifactId>
+    <artifactId>parent</artifactId>
     <packaging>pom</packaging>
     <version>0.0.1-SNAPSHOT</version>
     <name>guli_parent</name>
